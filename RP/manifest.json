@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"SimplyNetwork powered by ScytedTV Studios"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.41"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "SimplyNetwork Parties",
+		"description": "The official SimplyNetwork Parties system.",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "c734b451-fcd6-4dd6-b2fd-e9a5139583fb",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "1178d6dd-a608-48cf-81c8-5f8ff43367a3",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "df42c4c0-563c-4f5e-b28b-965057e71061",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
