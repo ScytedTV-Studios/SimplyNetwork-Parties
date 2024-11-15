@@ -52,24 +52,12 @@
 	],
 	"dependencies": [
 		{
-			"uuid": "c734b451-fcd6-4dd6-b2fd-e9a5139583fb",
-			"version": [
-				1,
-				0,
-				0
-			]
-		},
-		{
 			"module_name": "@minecraft/server",
-			"version": "1.0.0-beta"
-		},
-		{
-			"module_name": "@minecraft/server-gametest",
-			"version": "1.0.0-beta"
+			"version": "1.16.0-beta"
 		},
 		{
 			"module_name": "@minecraft/server-ui",
-			"version": "1.0.0-beta"
+			"version": "1.4.0-beta"
 		}
 	]
 }
